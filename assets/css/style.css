@@ -1,0 +1,434 @@
+header{
+  background-color: #293664!important;
+}
+nav{
+  box-shadow: none!important;
+  background-color: #293664!important;
+}
+p,span,a{
+  font-family: 'DM Sans', sans-serif;
+}
+.nav-wrapper ul li{
+  padding-right: 10px;
+}
+.nav-wrapper ul li a{
+  background: transparent;
+  color: #9097b1;
+}
+.beranda{
+  color: #9097b1;
+}
+header .container{
+  width: 90%!important;
+  border-bottom: 1px solid #47537e;
+}
+.sidenav-trigger{
+  position: absolute;
+  top: 0;
+  margin: 0px!important;
+}
+.get-bimacms{
+  width: 130px;
+  margin-top: 11px;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  height: 39px;
+  float: right;
+}
+.get-bimacms .thumbnail{
+  padding-left: 8px;
+  height: 0px;
+  width: 24px;
+  float: left;
+}
+.get-bimacms .thumbnail img{
+  position: absolute;
+  top: 18px;
+}
+.get-bimacms .content{
+  padding-left: 17px;
+  width: calc(100% - 24px);
+  float: right;
+}
+.get-bimacms .content p{
+  margin: 0px;
+  font-size: 12px;
+  line-height: 3;
+}
+.jalin-kerjasama{
+  position: relative;
+  width: 200px;
+  margin-top: 11px;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  height: 39px;
+  float: left;
+}
+.jalin-kerjasama .thumbnail{
+  padding-bottom: 0px!important;
+  margin-top: 0px!important;
+  padding-left: 9px;
+  height: 0px;
+  width: 24px;
+  float: left;
+}
+.jalin-kerjasama .thumbnail img{
+  width: 24px;
+  position: absolute;
+  top: 9px;
+}
+.jalin-kerjasama .content{
+  margin-top: -1px!important;
+  padding-left: 21px;
+  width: calc(100% - 24px);
+  float: right;
+}
+.jalin-kerjasama .content p{
+  margin: 0px;
+  font-size: 12px;
+  line-height: 3;
+}
+.carousel-item{
+  background-color: #293664;
+  position: relative;
+}
+.carousel-content{
+  max-width: 400px;
+  position: absolute;
+  top: 15%;
+  left: 8%;
+}
+.carousel-content h1{
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  font-size: 48px;
+}
+.carousel-content p{
+  color: #94a1cf;
+  font-size: 18px;
+}
+.bima-services h2{
+  max-width: 610px;
+  margin-top: 100px;
+  margin-bottom: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 45px;
+  font-size: 36px;
+  color: #293664;
+  font-family: 'Poppins', sans-serif;
+} 
+.preview-img{
+  background-image: url('../img/bg-bima.png');
+}
+.profile .row .col{
+  margin-bottom: 100px;
+}
+.profile .content{
+  max-width: 475px;
+  margin-left: 100px;
+  margin-bottom: 230px;
+}
+.profile .content h3{
+  font-size: 48px;
+  font-family: 'Poppins', sans-serif;
+  color: #293664;
+}
+.profile .content p{
+  margin-top: 33px;
+  margin-bottom: 33px;
+  font-size: 18px;
+  color: #7e8490;
+}
+.profile .content span{
+  font-weight: bold;
+  font-size: 14px;
+  color: #293664;
+}
+.profile .content .link-detail{
+  color: #293664;
+  font-size: 14px;
+  font-weight: bold;
+}
+.profile .link-detail img{
+  position: absolute;
+  padding-left: 14px;
+  margin-top: -2px;
+}
+.profile .preview-img img{
+  width: 100%;
+}
+.top-profile{
+  background-image: url('../img/bg-bima.png');
+}
+.bima-cloud{
+  background-color: #f2c94c;
+  background-image: url('../img/bg-bima1.png');
+}
+.bima-cloud .container{
+  width: 90%;
+}
+.bima-cloud .left-detail{
+  margin-top: 100px;
+}
+.bima-cloud .left-detail h2{
+  margin-top: 0px;
+  margin-left: 40px;
+  margin-bottom: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+  max-width: 410px;
+}
+.bima-cloud .left-detail img{
+  width: 100%;
+  margin-bottom: 80px;
+}
+.bima-cloud .right-detail{
+  margin-top: 85px;
+}
+.horizontal{
+  border-radius: 20px!important;
+}
+.second{
+  float: right!important;
+}
+.right-detail .card-image{
+  padding-left: 20px;
+  padding-top: 25px;
+}
+.right-detail .card-content{
+  padding-left: 20px!important;
+  padding-right: 0px!important;
+  padding-top: 5px!important;
+}
+.right-detail .card-content h3{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 20px;
+  font-size: 18px!important;
+}
+.right-detail .card-content p{
+  max-width: 322px;
+  font-size: 14px;
+}
+.cooperation{
+  margin-top: 130px;
+}
+.cooperation .container{
+  width: 90%!important;
+}
+.cooperation h2{
+  margin-top: 0px;
+  margin-bottom: 68px;
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Poppins', sans-serif;
+}
+.cooperation .btn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 176px;
+  width: 100%;
+  height: 86px!important;
+  background-color: #c4c4c4!important;
+  color: #c4c4c4;
+  box-shadow: none!important;
+}
+.slick-dots li button:before {
+  font-size: 10px!important;
+  margin-top: 20px!important;
+}
+.footer-top .container{
+  width: 90%!important;
+}
+.footer-top{
+  background-color: #293664;
+  margin-top: 130px;
+}
+.footer-top .row{
+  margin-bottom: 0px;
+}
+.footer-top .thumbnail{
+  margin-top: 102px;
+}
+.footer-top .content{
+  margin-top: 102px;
+  margin-bottom: 50px;
+}
+.footer-top .thumbnail{
+  padding-bottom: 84px;
+}
+.footer-top h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
+}
+.footer-top h3{
+  font-size: 24px;
+  color:  #f2c94c;
+  font-family: 'Poppins', sans-serif;
+}
+.footer-top p{
+  line-height: 28px;
+  max-width: 431px;
+  width: 100%;
+  color: #ffffff;
+  font-size: 18px;
+}
+.footer-top img{
+  max-width: 469px;
+  width: 100%;
+}
+.footer-bottom{
+  background-color: #222c52;
+}
+.footer-bottom .container{
+  width: 90%!important;
+}
+.footer-bottom h4{
+  font-family: 'DM Sans', sans-serif;
+  margin: 0px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #e0e0e0;
+  font-size:14px;
+}
+.preview-img{
+  display: grid;
+  grid-gap: 2rem;
+  background: #f1f1f1;
+  margin-bottom: 2rem;
+}
+@media (max-width: 992px) {
+  .header-logo{
+    float: right;
+    padding-right: 20px;
+    padding-top: 20px;
+  }
+  .profile .content{
+    margin-left: 50px;
+  }
+  .profile .content h3{
+    margin-top: 10px;
+    font-size: 36px;
+  }
+  .bima-cloud .left-detail {
+    margin-top: 50px;
+  }
+  .bima-cloud .left-detail h2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 700px;
+  }
+  .bima-cloud .left-detail img {
+    margin-bottom: 0px;
+  }
+  .bima-cloud .right-detail {
+    margin-top: 0px; 
+  }
+  .footer-top .content{
+    margin-bottom: 50px;
+  }
+  .footer-top h2{
+    font-size: 34px;
+  }
+  .footer-top h3{
+    font-size: 22px;
+  }
+  .footer-top p{
+    font-size: 16px;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .profile .content h3{
+    font-size: 36px;
+  }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+  .profile .row .col {
+    margin-bottom: 0px;
+  }
+  .profile .content{
+    margin-left: 10px!important;
+  }
+  .profile .content h3{
+    margin-top: 0px!important;
+    font-size: 26px!important;
+  }
+  .profile .content p{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+}
+@media (min-width: 600px) and (max-width: 768px) {
+  .footer-top .content{
+    margin-bottom: 20px;
+  }
+  .footer-top h2{
+    font-size: 26px!important;
+  }
+  .footer-top h3{
+    margin-top: 0px;
+    font-size: 18px;
+  }
+  .footer-top p{
+    line-height: 24px;
+    font-size: 14px;
+  }
+}
+@media (max-width: 600px){
+  .profile .link img {
+    left: 28%;
+    position: absolute;
+    top: 0%;
+    width: 21px;
+  }
+  .jalin-kerjasama{
+    margin-bottom: 40px;
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .footer-top .content{
+    margin-bottom: 20px;
+  }
+  .footer-top h2{
+    text-align: center;
+  }
+  .footer-top h3{
+    margin-top: 0px;
+    text-align: center;
+  }
+  .footer-top p{
+    text-align: center;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .promo-kerjasama .thumbnail{
+    padding-bottom: 64px;
+  }
+  .promo-kerjasama .content{
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1140px) {
+  .nav-wrapper ul li a{
+    padding-left: 0px;
+  }
+  .nav-wrapper li{
+    padding-right:0px!important; 
+  }
+  .profile .link img {
+    left: 31%;
+  }
+}
